@@ -11,3 +11,4 @@ trying by adding default email suffix
 notification keeping only for failure case
 added email id on SCM in jenkins config
 trying on previous case again
+job didnt get trigger.. so removed usenamr & email ID on scm
