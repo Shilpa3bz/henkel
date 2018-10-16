@@ -8,3 +8,4 @@ given email id externally
 test again
 email-ext plgin installed
 trying by adding default email suffix
+notification keeping only for failure case
