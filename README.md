@@ -15,3 +15,4 @@ job didnt get trigger.. so removed usenamr & email ID on scm
 selected unregistered users to receive mail on manage jenkins -  conf system - extended email notificaiton
 try again on previous
 could see email is secured and privacy
+test
