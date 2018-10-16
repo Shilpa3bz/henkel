@@ -7,3 +7,4 @@ checked on only - receive mail only to who broke build
 given email id externally
 test again
 email-ext plgin installed
+trying by adding default email suffix
