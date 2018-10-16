@@ -6,4 +6,4 @@ added git hub username & email details on jenkins
 checked on only - receive mail only to who broke build
 given email id externally
 test again
-
+email-ext plgin installed
